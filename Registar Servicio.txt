@@ -1,0 +1,12 @@
+title Registrar Servicio
+
+Guia -> IU: IngresarNombre
+
+IU-> Controller: Nombre
+Controller->Controller: VerificarNombre
+Controller-> Persistencia: GuardarNombre
+Controller-->IU: PedirDatos
+Guia->IU: IngresarDatos
+IU->Controller:Datos
+Controller->Controller:ValidarDatos
+Controller->Persistencia: GuardarDatos
