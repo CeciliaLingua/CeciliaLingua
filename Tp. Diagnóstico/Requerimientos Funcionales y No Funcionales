@@ -1,0 +1,20 @@
+Requerimientos Funcionales:
+•	El sistema debe permitir registrar con sus datos personales a los guías turísticos.
+•	El sistema debe permitir validar a los guías con su CUIT vía AFIP.
+•	El sistema debe permitir el registro e ingreso de los clientes a la página.
+•	El sistema debe permitir que los guías ingresen nuevos servicios.
+•	El sistema debe permitir a los clientes buscar y seleccionar servicios turísticos por ubicación o fecha.
+•	El sistema debe dar la opción a los clientes de abonar el servicio en su totalidad o pagar el importe de seña que corresponde al 50% del servicio.
+•	El sistema debe informar el importe de la seña.
+•	El sistema debe verificar la transacción con el Gateway de la tarjeta de crédito, y enviar un correo cuando el pago es exitoso.
+•	El sistema debe calcular el monto restante a pagar por el cliente y debe permitir abonar en varios pagos.
+•	El sistema debe generar vouchers definitivo posterior al pago en su totalidad.
+•	El sistema debe permitir al guía identificar y acreditar la asistencia de los clientes.
+•	El sistema debe permitir emitir un listado de insumos necesarios para cada servicio.
+•	El sistema debe permitir cambiar el estado de la reserva.
+•	El sistema debe permitir al guía realizar un feedback.
+Requerimientos No Funcionales:
+•	El sistema debe ser fiable. 
+•	El sistema debe estar disponible en todo momento.
+•	El sistema debe ser seguro para conectarse con el Gateway de tarjeta de crédito.
+•	El sistema debe ser intuitivo para que los clientes y guías no comentan errores a la hora de usarlo.
